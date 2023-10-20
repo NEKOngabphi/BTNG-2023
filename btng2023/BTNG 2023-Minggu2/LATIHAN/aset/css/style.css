@@ -1,0 +1,41 @@
+/* h1
+ {
+    color: red;
+} */
+
+h1 {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 15px;
+    background-color: honeydew;
+
+}
+
+span {
+    color: red;
+}
+
+.container {
+    /*width: 400px;
+    height: auto;*/
+    box-shadow: 10px 13px -1px rgb(190, 12, 27);
+}
+
+#judul {
+    font-weight: 800;
+    color: red;
+    text-decoration: underline;
+}
+
+#judul1 {
+    font-weight: 800;
+    color: green;
+}
+
+.content {
+    background-color: rgb(247, 247, 247);
+}
+
